@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.container {
+  max-width: 750px;
+  margin: auto;
+  border: 1px solid red;
+}
+
+.btn-class {
+  margin: 0.8rem;
+  padding: 0.5rem;
+}
+
+.placeData {
+  border: 1px solid red;
+}
